@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Hế lô!',
     introDesc: `Ỏ ai đây nhỉ !!!
-    Lạc vào tim anh lẻ lo              
+    Ai mà xinh thế nhỉ`,              
     btnIntro: 'hihi',
     title: 'Đã được nhân quà 20/10 chưa ấy nhỉ 😙',
     btnYes: 'Gòi :3',

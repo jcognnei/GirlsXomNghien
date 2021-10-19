@@ -12,4 +12,5 @@ const CONFIG = {
     mess: 'Hép pi 20/10 he he 🥰',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun. <3',
+    messLink: 'https://www.messenger.com/t/100064661416257',
 }

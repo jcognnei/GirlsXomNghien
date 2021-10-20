@@ -10,8 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi thông điệp tới vũ trụ',
     reply: 'Xinh là do nhậu nhiều ',
     mess: 'Hép pi 20/10 he he 🥰',
-    messDesc: 'Chúc các bạn nữa Xóm Nghiện mãi xinh mãi nghiện và đừng lấy chồng sớm
-    Hẹn các bạn Xinh gái trên bàn nhậu lúc đi học nhá',
+    messDesc: 'Chúc các bạn nữa Xóm Nghiện mãi xinh mãi nghiện và đừng lấy chồng sớm,Hẹn các bạn Xinh gái trên bàn nhậu lúc đi học nhá',
     btnAccept: 'Okiiiii lun. <3',
     messLink: 'https://www.facebook.com/messages/t/3777985598941448',
 }
